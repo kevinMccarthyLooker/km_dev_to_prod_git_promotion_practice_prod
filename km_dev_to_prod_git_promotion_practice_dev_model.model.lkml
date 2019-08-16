@@ -6,5 +6,6 @@ view: users {
 }
 
 explore: users {
-  view_label: "version 1.1"
+#   view_label: "version 1.1"
+  view_label: "version 1.2"
 }
