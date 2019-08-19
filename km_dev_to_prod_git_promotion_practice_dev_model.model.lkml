@@ -7,5 +7,6 @@ view: users {
 
 explore: users {
 #   view_label: "version 1.1"
-  view_label: "version 1.2"
+#   view_label: "version 1.2"
+  view_label: "version 1.3 - in progress"
 }
